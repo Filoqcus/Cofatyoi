@@ -1,16 +1,26 @@
 <h1 align="center">Hi 👋, I'm Cosgerms</h1>
 <h3 align="center">I'm trying to become a Dev✨. I really want my dream to come true🍪</h3>
 
-- 🔭 I’m currently working on Nothing
+<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> Desktop 💻 </h3>  
 
-- 🌱 I’m currently learning **Java, PostgreSQL**
+  ![My Skills](https://skillicons.dev/icons?i=py,java)
+<h3> Data Storaging 🛢 </h3>  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/-cosgerms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="-cosgerms" height="30" width="40" /></a>
-</p>
+  ![My Skills](https://skillicons.dev/icons?i=postgresql)
+<h3> Tools ⚙️ </h3>  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+  ![My Skills](https://skillicons.dev/icons?i=git,github,rs)
+<h3> Visuals 🖥 </h3>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cofatyoi&show_icons=true&locale=en" alt="cofatyoi" /></p>
+  ![My Skills](https://skillicons.dev/icons?i=ps,au,pr)
+<br/>
+
+<a href="https://github.com/Cofatyoi">
+  <img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cofatyoi&theme=default" />
+  <br>
+  <img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cofatyoi&theme=default" />
+  <img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cofatyoi&theme=default" />
+</a>
+
+<br/>
