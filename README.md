@@ -11,6 +11,9 @@
 <h3> Tools ⚙️ </h3>  
 
   ![My Skills](https://skillicons.dev/icons?i=git,github,rs)
+<h3> Trying </h3>  
+
+  ![My Skills](https://skillicons.dev/icons?i=cpp)
 <br/>
 
 <a href="https://github.com/Cofatyoi">
