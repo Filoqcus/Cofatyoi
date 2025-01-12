@@ -4,7 +4,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <h3> Desktop 💻 </h3>  
 
-  ![My Skills](https://skillicons.dev/icons?i=py,java)
+  ![My Skills](https://skillicons.dev/icons?i=py,java,nodejs)
 <h3> Data Storaging 🛢 </h3>  
 
   ![My Skills](https://skillicons.dev/icons?i=postgresql)
